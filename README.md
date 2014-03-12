@@ -1,4 +1,4 @@
-## Game of Life in Javascript
+## Game of Life in Javascript with React.js
 
 Javascript + HTML5 implementation of a cellular automata. Everything was done with React.js.
 
