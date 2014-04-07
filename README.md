@@ -1,5 +1,7 @@
 ## Game of Life in Javascript with React.js
 
+Demo: [http://damiankao.github.io/life/](http://damiankao.github.io/life/)
+
 Javascript + HTML5 implementation of a cellular automata. Everything was done with React.js.
 
 Need to do:
